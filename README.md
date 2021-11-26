@@ -1,3 +1,3 @@
 # java-streams-templates
 
-Demonstrating Java streams API
+Demonstrating the use Java streams API
